@@ -1,6 +1,6 @@
 {
   "name": "git-cli-service",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "git cli",
   "bin": {
     "git-cli-service": "bin/git-cli-service.js"
@@ -22,6 +22,10 @@
     "auto merge branch"
   ],
   "author": "tenglei",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoyueqingfeng/git-cli-service.git"
+  },
   "license": "MIT",
   "publishConfig": {
     "access": "public"
