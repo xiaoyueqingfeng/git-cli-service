@@ -1,0 +1,37 @@
+{
+  "name": "git-cli-service",
+  "version": "1.0.2",
+  "description": "git cli",
+  "bin": {
+    "git-cli-service": "bin/git-cli-service.js"
+  },
+  "scripts": {
+    "init": "yarn install",
+    "dev": "node bin/git-cli-service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "",
+    "directory": ""
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "branch",
+    "delete branch",
+    "auto merge branch"
+  ],
+  "author": "tenglei",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "git-utils-node": "^1.1.1",
+    "inquirer": "^7.3.3"
+  }
+}
