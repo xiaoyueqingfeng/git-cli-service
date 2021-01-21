@@ -1,6 +1,6 @@
 {
   "name": "git-cli-service",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "git cli",
   "bin": {
     "git-cli-service": "bin/git-cli-service.js"
@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.0",
-    "git-utils-node": "^1.1.1",
+    "git-utils-node": "^1.1.4",
     "inquirer": "^7.3.3"
   }
 }
