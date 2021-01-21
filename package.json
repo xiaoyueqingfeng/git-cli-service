@@ -1,6 +1,6 @@
 {
   "name": "git-cli-service",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "git cli",
   "bin": {
     "git-cli-service": "bin/git-cli-service.js"
