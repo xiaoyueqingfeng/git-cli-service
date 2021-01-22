@@ -4,8 +4,11 @@ git-cli-service
 Git cli service with functions of merging branch automatically, creating branch and so on.
 
 ## Install
-
 `npm install git-cli-service -g`
+
+or
+
+`yarn global add git-cli-service`
 
 ## Example
 
